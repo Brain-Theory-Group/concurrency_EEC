@@ -1,0 +1,194 @@
+{
+ "networks": {
+  "ia-reality-call": {
+   "delta": 3600,
+   "n_events": 51247,
+   "N_chain": 23938,
+   "R_chain": 1.281086606335326,
+   "z_chain": 83.54179800904241,
+   "N_repeat": 24441,
+   "R_repeat": 5.826082810898429,
+   "z_repeat": 302.28275318501954,
+   "N_chain_all": 73414,
+   "R_chain_all": 2.724627569160426,
+   "z_chain_all": 266.2846676117476,
+   "N_repeat_all": 25772,
+   "R_repeat_all": 9.704043979215301,
+   "z_repeat_all": 527.8337717841312
+  },
+  "college-msg": {
+   "delta": 86400,
+   "n_events": 59835,
+   "N_chain": 56937,
+   "R_chain": 0.6720363159516117,
+   "z_chain": -475.83697732860054,
+   "N_repeat": 49506,
+   "R_repeat": 7.323914490716769,
+   "z_repeat": 501.73046577353387,
+   "N_chain_all": 1823373,
+   "R_chain_all": 2.7440236765465422,
+   "z_chain_all": 658.4276274527906,
+   "N_repeat_all": 226015,
+   "R_repeat_all": 12.118246938469127,
+   "z_repeat_all": 1296.7423575733687
+  },
+  "friends-family-call": {
+   "delta": 86400,
+   "n_events": 57625,
+   "N_chain": 14217,
+   "R_chain": 0.5285405188374116,
+   "z_chain": -153.2241976986365,
+   "N_repeat": 90692,
+   "R_repeat": 1.135809457731512,
+   "z_repeat": 119.0558412623318,
+   "N_chain_all": 200152,
+   "R_chain_all": 1.1585961301018386,
+   "z_chain_all": 38.76195839255497,
+   "N_repeat_all": 414604,
+   "R_repeat_all": 1.8208968071809222,
+   "z_repeat_all": 399.1421295912303
+  },
+  "contact-high-school": {
+   "delta": 90,
+   "n_events": 163977,
+   "N_chain": 67661,
+   "R_chain": 0.3326210059399944,
+   "z_chain": -500.43752909782125,
+   "N_repeat": 218456,
+   "R_repeat": 2.5606173913247328,
+   "z_repeat": 586.9494748717906,
+   "N_chain_all": 5564267,
+   "R_chain_all": 1.1960385510039104,
+   "z_chain_all": 175.87853278138948,
+   "N_repeat_all": 4212726,
+   "R_repeat_all": 3.826197762713989,
+   "z_repeat_all": 2241.480283750625
+  },
+  "contact-primary-school": {
+   "delta": 30,
+   "n_events": 97134,
+   "N_chain": 87928,
+   "R_chain": 0.5915405025753083,
+   "z_chain": -276.98923331287625,
+   "N_repeat": 65392,
+   "R_repeat": 4.257929247218008,
+   "z_repeat": 405.94439214839207,
+   "N_chain_all": 2297426,
+   "R_chain_all": 1.3123112295875479,
+   "z_chain_all": 409.65486113275875,
+   "N_repeat_all": 402695,
+   "R_repeat_all": 4.452202081847681,
+   "z_repeat_all": 1219.9378398858498
+  },
+  "congress-bills": {
+   "delta": 60,
+   "n_events": 32114,
+   "N_chain": 25102,
+   "R_chain": 1.0485686715985847,
+   "z_chain": 10.285215236191517,
+   "N_repeat": 7905,
+   "R_repeat": 1.8268164170826402,
+   "z_repeat": 55.67433715847062,
+   "N_chain_all": 97240,
+   "R_chain_all": 1.8658019456223498,
+   "z_chain_all": 229.64754838720015,
+   "N_repeat_all": 28852,
+   "R_repeat_all": 5.918116179849032,
+   "z_repeat_all": 299.4045137379996
+  },
+  "email-Eu": {
+   "delta": 86400,
+   "n_events": 173288,
+   "N_chain": 160264,
+   "R_chain": 0.7181560886250428,
+   "z_chain": -312.2827722003938,
+   "N_repeat": 126266,
+   "R_repeat": 2.855740611740865,
+   "z_repeat": 494.9857868025792,
+   "N_chain_all": 1314969,
+   "R_chain_all": 1.3360886874920557,
+   "z_chain_all": 149.62815594830096,
+   "N_repeat_all": 412858,
+   "R_repeat_all": 3.1411476664581994,
+   "z_repeat_all": 407.9661375301223
+  },
+  "tags-ask-ubuntu": {
+   "delta": 400,
+   "n_events": 74881,
+   "N_chain": 103809,
+   "R_chain": 0.9872514847907028,
+   "z_chain": -18.069002635776645,
+   "N_repeat": 6551,
+   "R_repeat": 1.4809874756974275,
+   "z_repeat": 37.98585925895252,
+   "N_chain_all": 1862516,
+   "R_chain_all": 2.0399969594722624,
+   "z_chain_all": 662.8624634946187,
+   "N_repeat_all": 25160,
+   "R_repeat_all": 1.9923347375756233,
+   "z_repeat_all": 74.22147507829915
+  },
+  "tags-math-sx": {
+   "delta": 325,
+   "n_events": 277510,
+   "N_chain": 405702,
+   "R_chain": 0.9665847325156119,
+   "z_chain": -67.97761849300257,
+   "N_repeat": 77183,
+   "R_repeat": 1.2479647388479007,
+   "z_repeat": 104.05922317502005,
+   "N_chain_all": 23073529,
+   "R_chain_all": 1.0126478764234348,
+   "z_chain_all": 13.143721785944312,
+   "N_repeat_all": 1233029,
+   "R_repeat_all": 1.090388131903971,
+   "z_repeat_all": 32.526869329553534
+  },
+  "tags-stack-overflow": {
+   "delta": 400,
+   "n_events": 3731763,
+   "N_chain": 3826130,
+   "R_chain": 0.9696555515798043,
+   "z_chain": -219.33262530969728,
+   "N_repeat": 991374,
+   "R_repeat": 1.136271318540253,
+   "z_repeat": 169.4278676411629,
+   "N_chain_all": 3416496924,
+   "R_chain_all": 1.0526243329430487,
+   "z_chain_all": 244.7119438616512,
+   "N_repeat_all": 143008510,
+   "R_repeat_all": 1.143478615858742,
+   "z_repeat_all": 168.3346361925845
+  }
+ },
+ "quoted": {
+  "R_repeat_range": [
+   1.135809457731512,
+   7.323914490716769
+  ],
+  "n_chain_under": 8,
+  "R_chain_under_range": [
+   0.3326210059399944,
+   0.9872514847907028
+  ],
+  "R_chain_over": {
+   "ia-reality-call": 1.281086606335326,
+   "congress-bills": 1.0485686715985847
+  },
+  "R_chain_all_range": [
+   1.0126478764234348,
+   2.7440236765465422
+  ],
+  "min_abs_z_chain": 10.285215236191517,
+  "min_abs_z_repeat": 37.98585925895252,
+  "n_networks_d_positive": 10,
+  "pearson_R_chain_vs_d": {
+   "r": 0.5157244484532613,
+   "p": 0.12705660342912273
+  },
+  "pearson_R_repeat_vs_d": {
+   "r": 0.5124428754011444,
+   "p": 0.12991527957057097
+  }
+ }
+}

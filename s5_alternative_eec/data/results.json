@@ -1,0 +1,578 @@
+{
+ "cases": {
+  "edge/ia-reality-call": {
+   "r_sttc_eec": 0.8153813415555973,
+   "frac_undefined_terms": 0.0,
+   "frac_fully_tiled": 0.0,
+   "d": {
+    "pearson": {
+     "int-dj": 0.9683736517486712,
+     "open-dj": 0.9554551030070529,
+     "closed-dj": 1.113479302369999
+    },
+    "emd": {
+     "int-dj": -0.6207014363225006,
+     "open-dj": -0.6133329942549851,
+     "closed-dj": -0.7223488513394328
+    },
+    "sttc": {
+     "int-dj": 1.0272514936337054,
+     "open-dj": 1.0156338779008038,
+     "closed-dj": 1.158659741451125
+    }
+   }
+  },
+  "edge/college-msg": {
+   "r_sttc_eec": 0.7275939329426556,
+   "frac_undefined_terms": 0.0,
+   "frac_fully_tiled": 0.0,
+   "d": {
+    "pearson": {
+     "int-dj": 0.6197349660802215,
+     "open-dj": 0.5613474852566034,
+     "closed-dj": 0.9560122764903014
+    },
+    "emd": {
+     "int-dj": -0.7379519307376488,
+     "open-dj": -0.7903629221524642,
+     "closed-dj": -0.4977208161580997
+    },
+    "sttc": {
+     "int-dj": 0.7126663066577351,
+     "open-dj": 0.6598592039492939,
+     "closed-dj": 0.966052232417639
+    }
+   }
+  },
+  "edge/friends-family-call": {
+   "r_sttc_eec": 0.8472355526584666,
+   "frac_undefined_terms": 0.0,
+   "frac_fully_tiled": 0.0,
+   "d": {
+    "pearson": {
+     "int-dj": 0.0009763271577434622,
+     "open-dj": -0.1934431305324662,
+     "closed-dj": 0.32102019781495933
+    },
+    "emd": {
+     "int-dj": -0.18343881491689573,
+     "open-dj": -0.17646041177730779,
+     "closed-dj": -0.19684441811297967
+    },
+    "sttc": {
+     "int-dj": -0.153915634744958,
+     "open-dj": -0.3868401481625664,
+     "closed-dj": 0.217344631972513
+    }
+   }
+  },
+  "edge/contact-high-school": {
+   "r_sttc_eec": 0.7632507828976186,
+   "frac_undefined_terms": 0.0,
+   "frac_fully_tiled": 0.0,
+   "d": {
+    "pearson": {
+     "int-dj": 0.154906465832371,
+     "open-dj": -0.5091731295680236,
+     "closed-dj": 0.23790218243295885
+    },
+    "emd": {
+     "int-dj": -0.05473824449523945,
+     "open-dj": 0.28193493634185546,
+     "closed-dj": -0.11610915684277104
+    },
+    "sttc": {
+     "int-dj": 0.2581075577636882,
+     "open-dj": -0.5342150315192066,
+     "closed-dj": 0.3806737584839229
+    }
+   }
+  },
+  "edge/contact-primary-school": {
+   "r_sttc_eec": 0.8290061704217998,
+   "frac_undefined_terms": 0.0,
+   "frac_fully_tiled": 0.0,
+   "d": {
+    "pearson": {
+     "int-dj": 0.16215747078978798,
+     "open-dj": -1.2496177190916269,
+     "closed-dj": 0.23514956693954694
+    },
+    "emd": {
+     "int-dj": -0.15375407658521162,
+     "open-dj": 0.6452681884960675,
+     "closed-dj": -0.22527443948762174
+    },
+    "sttc": {
+     "int-dj": 0.25561419081838305,
+     "open-dj": -1.513214882121647,
+     "closed-dj": 0.3682323671258268
+    }
+   }
+  },
+  "edge/DAWN": {
+   "r_sttc_eec": 0.012960312971845954,
+   "frac_undefined_terms": 0.5784810126582278,
+   "frac_fully_tiled": 0.5784810126582278,
+   "d": {
+    "pearson": {
+     "int-dj": 0.1575822121340771,
+     "open-dj": -0.3013453697500294,
+     "closed-dj": 0.271653353864401
+    },
+    "emd": {
+     "int-dj": -0.16375578658364312,
+     "open-dj": 0.2622633653163699,
+     "closed-dj": -0.30673703238475464
+    },
+    "sttc": {
+     "int-dj": -0.20718716685929459,
+     "open-dj": -0.14060323592676488,
+     "closed-dj": -0.22393644870435966
+    }
+   }
+  },
+  "edge/congress-bills": {
+   "r_sttc_eec": 0.8754018749093313,
+   "frac_undefined_terms": 0.0,
+   "frac_fully_tiled": 0.0,
+   "d": {
+    "pearson": {
+     "int-dj": 0.045787079128997134
+    },
+    "emd": {
+     "int-dj": -0.6293553799318424
+    },
+    "sttc": {
+     "int-dj": 0.005192460060135354
+    }
+   }
+  },
+  "edge/email-Eu": {
+   "r_sttc_eec": 0.7975999775687466,
+   "frac_undefined_terms": 0.0,
+   "frac_fully_tiled": 0.0,
+   "d": {
+    "pearson": {
+     "int-dj": 0.5336679528197281,
+     "open-dj": 0.3409088886158921,
+     "closed-dj": 0.6348564664694101
+    },
+    "emd": {
+     "int-dj": -0.19743352877484543,
+     "open-dj": -0.009736325899231787,
+     "closed-dj": -0.2937558734428074
+    },
+    "sttc": {
+     "int-dj": 0.5472097904691058,
+     "open-dj": 0.3152419541676161,
+     "closed-dj": 0.6635519003897848
+    }
+   }
+  },
+  "edge/tags-ask-ubuntu": {
+   "r_sttc_eec": 0.8544101097904765,
+   "frac_undefined_terms": 0.0,
+   "frac_fully_tiled": 0.0,
+   "d": {
+    "pearson": {
+     "int-dj": 0.8361251842636729,
+     "open-dj": 0.2063946732264222,
+     "closed-dj": 0.8902378999302625
+    },
+    "emd": {
+     "int-dj": -0.4861272459659552,
+     "open-dj": 0.07706510336386606,
+     "closed-dj": -0.5416374670007299
+    },
+    "sttc": {
+     "int-dj": 0.7757611360598189,
+     "open-dj": 0.039977633298656896,
+     "closed-dj": 0.8442623047970886
+    }
+   }
+  },
+  "edge/tags-math-sx": {
+   "r_sttc_eec": 0.7791176646768581,
+   "frac_undefined_terms": 0.0,
+   "frac_fully_tiled": 0.0,
+   "d": {
+    "pearson": {
+     "int-dj": 0.20205516863062514,
+     "open-dj": -0.03867538061846557,
+     "closed-dj": 0.28266654827728793
+    },
+    "emd": {
+     "int-dj": -0.2200183622628164,
+     "open-dj": 0.1281735293834088,
+     "closed-dj": -0.3701609560517064
+    },
+    "sttc": {
+     "int-dj": 0.1882896888657136,
+     "open-dj": -0.0872033976258411,
+     "closed-dj": 0.2806764823120239
+    }
+   }
+  },
+  "edge/tags-stack-overflow": {
+   "r_sttc_eec": 0.8273547811408838,
+   "frac_undefined_terms": 0.002338173763229141,
+   "frac_fully_tiled": 0.002338173763229141,
+   "d": {
+    "pearson": {
+     "int-dj": 0.30223347469270984,
+     "open-dj": 0.25515180143400185,
+     "closed-dj": 0.4909524565951685
+    },
+    "emd": {
+     "int-dj": -0.4511472239758337,
+     "open-dj": -0.4232394193044299,
+     "closed-dj": -0.5794153615165566
+    },
+    "sttc": {
+     "int-dj": 0.30443808555426133,
+     "open-dj": 0.2566279424230687,
+     "closed-dj": 0.5053767013992737
+    }
+   }
+  },
+  "e-h3/contact-high-school": {
+   "r_sttc_eec": 0.7056103184510818,
+   "frac_undefined_terms": 0.0,
+   "frac_fully_tiled": 0.0,
+   "d": {
+    "pearson": {
+     "int-dj": 0.10787576847862194,
+     "open-dj": -0.5801551826044106,
+     "closed-dj": 0.14539147914856826
+    },
+    "emd": {
+     "int-dj": -0.006796254491701762,
+     "open-dj": 0.2347142407733124,
+     "closed-dj": -0.027225837417472754
+    },
+    "sttc": {
+     "int-dj": 0.12190578726825226,
+     "open-dj": -0.565290858776316,
+     "closed-dj": 0.16969882101140793
+    }
+   }
+  },
+  "e-h3/contact-primary-school": {
+   "r_sttc_eec": 0.8548532618906205,
+   "frac_undefined_terms": 0.0,
+   "frac_fully_tiled": 0.0,
+   "d": {
+    "pearson": {
+     "int-dj": -0.2618015853040531,
+     "open-dj": -0.614306823676262,
+     "closed-dj": -0.24282170582234922
+    },
+    "emd": {
+     "int-dj": 0.049634126443940586,
+     "open-dj": -0.38096926793485,
+     "closed-dj": 0.07750405034287158
+    },
+    "sttc": {
+     "int-dj": -0.2417632832856764,
+     "open-dj": -0.8521624873418354,
+     "closed-dj": -0.20944537879845862
+    }
+   }
+  },
+  "e-h3/DAWN": {
+   "r_sttc_eec": 0.06289649554862801,
+   "frac_undefined_terms": 0.44489296323565275,
+   "frac_fully_tiled": 0.46970830216903514,
+   "d": {
+    "pearson": {
+     "int-dj": 0.09015286740003269,
+     "open-dj": -0.4434842351933465,
+     "closed-dj": 0.09091019948064492
+    },
+    "emd": {
+     "int-dj": -0.07408031324029041,
+     "open-dj": 0.48240650417863173,
+     "closed-dj": -0.07519837107238703
+    },
+    "sttc": {
+     "int-dj": -0.1964444293441932,
+     "open-dj": -0.5616836468983564,
+     "closed-dj": -0.19594932892566863
+    }
+   }
+  },
+  "e-h3/NDC-substances": {
+   "r_sttc_eec": 0.6822033515861055,
+   "frac_undefined_terms": 0.0,
+   "frac_fully_tiled": 0.0,
+   "d": {
+    "pearson": {
+     "int-dj": 0.6083732341900592,
+     "open-dj": 0.3578875807372929,
+     "closed-dj": 0.6983800319714821
+    },
+    "emd": {
+     "int-dj": -0.5909302503907741,
+     "open-dj": -0.4159691306800324,
+     "closed-dj": -0.656065133912749
+    },
+    "sttc": {
+     "int-dj": 0.5428412212412826,
+     "open-dj": 0.3098266108667602,
+     "closed-dj": 0.6264382923492459
+    }
+   }
+  },
+  "e-h3/email-Eu": {
+   "r_sttc_eec": 0.7995790331377438,
+   "frac_undefined_terms": 0.0,
+   "frac_fully_tiled": 0.0,
+   "d": {
+    "pearson": {
+     "int-dj": 0.24272857117836433,
+     "open-dj": -0.11763015812117644,
+     "closed-dj": 0.26385605655837435
+    },
+    "emd": {
+     "int-dj": -0.06589589449838566,
+     "open-dj": 0.2725680010319922,
+     "closed-dj": -0.09045492340154394
+    },
+    "sttc": {
+     "int-dj": 0.2552059945660373,
+     "open-dj": -0.09458687055297874,
+     "closed-dj": 0.27580093374887493
+    }
+   }
+  },
+  "e-h3/tags-ask-ubuntu": {
+   "r_sttc_eec": 0.845158746732923,
+   "frac_undefined_terms": 0.0,
+   "frac_fully_tiled": 0.0,
+   "d": {
+    "pearson": {
+     "int-dj": 0.4385489470114288
+    },
+    "emd": {
+     "int-dj": -0.35018943120201107
+    },
+    "sttc": {
+     "int-dj": 0.40268453844968344
+    }
+   }
+  },
+  "e-h3/tags-math-sx": {
+   "r_sttc_eec": 0.7145062176588107,
+   "frac_undefined_terms": 0.0,
+   "frac_fully_tiled": 0.0,
+   "d": {
+    "pearson": {
+     "int-dj": 0.14015313794797163,
+     "open-dj": -0.13409184381278624,
+     "closed-dj": 0.1412231217533179
+    },
+    "emd": {
+     "int-dj": -0.14961847596068506,
+     "open-dj": 0.2092829329062601,
+     "closed-dj": -0.1512078628811582
+    },
+    "sttc": {
+     "int-dj": 0.15691585409667555,
+     "open-dj": -0.24994190450804366,
+     "closed-dj": 0.15843178628295332
+    }
+   }
+  },
+  "e-h3/tags-stack-overflow": {
+   "r_sttc_eec": 0.802190709764579,
+   "frac_undefined_terms": 0.0011939421050769015,
+   "frac_fully_tiled": 0.0008312551953449709,
+   "d": {
+    "pearson": {
+     "int-dj": 0.18972545808065447,
+     "open-dj": 0.04929261714063138,
+     "closed-dj": 0.20442580878981845
+    },
+    "emd": {
+     "int-dj": -0.32641484158811157,
+     "open-dj": -0.14897799375397158,
+     "closed-dj": -0.34718152302478256
+    },
+    "sttc": {
+     "int-dj": 0.21582083623201326,
+     "open-dj": 0.014014399053122082,
+     "closed-dj": 0.23697600388110973
+    }
+   }
+  },
+  "h3-h3/DAWN": {
+   "r_sttc_eec": 0.11561853636290796,
+   "frac_undefined_terms": 0.3126142595978062,
+   "frac_fully_tiled": 0.3126142595978062,
+   "d": {
+    "pearson": {
+     "int1-dj": 0.04989496133772279,
+     "int2-int1": 0.27589641004521015
+    },
+    "emd": {
+     "int1-dj": -0.03676466456008189,
+     "int2-int1": -0.232949142003308
+    },
+    "sttc": {
+     "int1-dj": -0.0981754489513689,
+     "int2-int1": -0.0958988945164993
+    }
+   }
+  },
+  "h3-h3/NDC-substances": {
+   "r_sttc_eec": 0.7577198594438254,
+   "frac_undefined_terms": 0.0,
+   "frac_fully_tiled": 0.0,
+   "d": {
+    "pearson": {
+     "int1-dj": 0.26761569338455377,
+     "int2-int1": 0.24578463955879754
+    },
+    "emd": {
+     "int1-dj": -0.7326044980808772,
+     "int2-int1": 0.12133440925371962
+    },
+    "sttc": {
+     "int1-dj": 0.531141706466347,
+     "int2-int1": 0.12199599072037695
+    }
+   }
+  },
+  "h3-h3/email-Eu": {
+   "r_sttc_eec": 0.8347436509752456,
+   "frac_undefined_terms": 0.0,
+   "frac_fully_tiled": 0.0,
+   "d": {
+    "pearson": {
+     "int1-dj": -0.03271965246671341,
+     "int2-int1": 0.34431354503370915
+    },
+    "emd": {
+     "int1-dj": 0.08537602752263886,
+     "int2-int1": -0.2785985386167322
+    },
+    "sttc": {
+     "int1-dj": -0.027070764609643864,
+     "int2-int1": 0.3086411378128768
+    }
+   }
+  },
+  "h3-h3/tags-ask-ubuntu": {
+   "r_sttc_eec": 0.8610676036289229,
+   "frac_undefined_terms": 0.0,
+   "frac_fully_tiled": 0.0,
+   "d": {
+    "pearson": {
+     "int1-dj": 0.18389300888398974,
+     "int2-int1": 0.122328893980377
+    },
+    "emd": {
+     "int1-dj": -0.2582893815985051,
+     "int2-int1": -0.23954049825535095
+    },
+    "sttc": {
+     "int1-dj": 0.1716206308214158,
+     "int2-int1": 0.18656697382954604
+    }
+   }
+  },
+  "h3-h3/tags-math-sx": {
+   "r_sttc_eec": 0.7323260159135099,
+   "frac_undefined_terms": 0.0,
+   "frac_fully_tiled": 0.0,
+   "d": {
+    "pearson": {
+     "int1-dj": 0.08001782370261563,
+     "int2-int1": 0.25846358692633264
+    },
+    "emd": {
+     "int1-dj": -0.14087013313737629,
+     "int2-int1": -0.040428966894947745
+    },
+    "sttc": {
+     "int1-dj": 0.11139846522506054,
+     "int2-int1": 0.26494924425887906
+    }
+   }
+  },
+  "h3-h3/tags-stack-overflow": {
+   "r_sttc_eec": 0.8156225453757305,
+   "frac_undefined_terms": 6.2758880381574e-05,
+   "frac_fully_tiled": 6.2758880381574e-05,
+   "d": {
+    "pearson": {
+     "int1-dj": 0.11056470072197955,
+     "int2-int1": 0.3323364042076374
+    },
+    "emd": {
+     "int1-dj": -0.23408997944556129,
+     "int2-int1": -0.36081093302533285
+    },
+    "sttc": {
+     "int1-dj": 0.12003168188061994,
+     "int2-int1": 0.3699961941098673
+    }
+   }
+  }
+ },
+ "quoted": {
+  "sign_disagreements": {
+   "emd": [
+    "edge/friends-family-call: d_open-dj = -0.18 vs EEC -0.18",
+    "edge/tags-ask-ubuntu: d_open-dj = 0.08 vs EEC 0.21",
+    "e-h3/contact-primary-school: d_open-dj = -0.38 vs EEC -0.61",
+    "h3-h3/NDC-substances: d_int2-int1 = 0.12 vs EEC 0.25"
+   ],
+   "sttc": [
+    "edge/friends-family-call: d_int-dj = -0.15 vs EEC 0.00",
+    "edge/DAWN: d_int-dj = -0.21 vs EEC 0.15",
+    "edge/DAWN: d_closed-dj = -0.22 vs EEC 0.27",
+    "e-h3/DAWN: d_int-dj = -0.20 vs EEC 0.07",
+    "e-h3/DAWN: d_closed-dj = -0.20 vs EEC 0.07",
+    "h3-h3/DAWN: d_int1-dj = -0.10 vs EEC 0.05",
+    "h3-h3/DAWN: d_int2-int1 = -0.10 vs EEC 0.27"
+   ]
+  },
+  "sttc": {
+   "edge": {
+    "DAWN": {
+     "r_sttc_eec": 0.012960312971845954,
+     "frac_undefined_terms": 0.5784810126582278,
+     "frac_fully_tiled": 0.5784810126582278
+    },
+    "r_range_without_DAWN": [
+     0.7275939329426556,
+     0.8754018749093313
+    ]
+   },
+   "e-h3": {
+    "DAWN": {
+     "r_sttc_eec": 0.06289649554862801,
+     "frac_undefined_terms": 0.44489296323565275,
+     "frac_fully_tiled": 0.46970830216903514
+    },
+    "r_range_without_DAWN": [
+     0.6822033515861055,
+     0.8548532618906205
+    ]
+   },
+   "h3-h3": {
+    "DAWN": {
+     "r_sttc_eec": 0.11561853636290796,
+     "frac_undefined_terms": 0.3126142595978062,
+     "frac_fully_tiled": 0.3126142595978062
+    },
+    "r_range_without_DAWN": [
+     0.7323260159135099,
+     0.8610676036289229
+    ]
+   }
+  }
+ }
+}

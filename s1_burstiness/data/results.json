@@ -1,0 +1,338 @@
+{
+ "cases": {
+  "edge/ia-reality-call": {
+   "pair_type": "edge",
+   "dataset": "ia-reality-call",
+   "n_pairs": 402,
+   "B_mean": 0.26941943651838196,
+   "eec_mean": 0.05837160606277003,
+   "r_mean": 0.0921573773622731,
+   "r_max": 0.06009884860658176,
+   "r_mean_n": 0.07626223709696452,
+   "r_max_n": 0.04052535819403822
+  },
+  "edge/college-msg": {
+   "pair_type": "edge",
+   "dataset": "college-msg",
+   "n_pairs": 98,
+   "B_mean": 0.5836579975015145,
+   "eec_mean": 0.17216573754804848,
+   "r_mean": -0.10792769572090002,
+   "r_max": -0.03592216482986296,
+   "r_mean_n": -0.07363061876373404,
+   "r_max_n": -0.0056145502878685105
+  },
+  "edge/friends-family-call": {
+   "pair_type": "edge",
+   "dataset": "friends-family-call",
+   "n_pairs": 438,
+   "B_mean": 0.3617366340815066,
+   "eec_mean": 0.09927521505937713,
+   "r_mean": 0.1617315153122095,
+   "r_max": 0.22945885583395642,
+   "r_mean_n": -0.17237673810788195,
+   "r_max_n": -0.07254283216846463
+  },
+  "edge/contact-high-school": {
+   "pair_type": "edge",
+   "dataset": "contact-high-school",
+   "n_pairs": 2184,
+   "B_mean": 0.7076280456419453,
+   "eec_mean": 0.09692445858462542,
+   "r_mean": 0.048457673204676206,
+   "r_max": 0.0142185777766164,
+   "r_mean_n": -0.021909642611797793,
+   "r_max_n": -0.1023816227753689
+  },
+  "edge/contact-primary-school": {
+   "pair_type": "edge",
+   "dataset": "contact-primary-school",
+   "n_pairs": 1552,
+   "B_mean": 0.6798750602496982,
+   "eec_mean": 0.1096297938593535,
+   "r_mean": 0.07267018469039441,
+   "r_max": -0.03069562591385904,
+   "r_mean_n": 0.0042095838264294754,
+   "r_max_n": -0.13254324390815247
+  },
+  "edge/DAWN": {
+   "pair_type": "edge",
+   "dataset": "DAWN",
+   "n_pairs": 22430,
+   "B_mean": 0.32217978080151355,
+   "eec_mean": 0.19007811879729858,
+   "r_mean": 0.29586651249241563,
+   "r_max": 0.21003359526965368,
+   "r_mean_n": 0.090573815849813,
+   "r_max_n": 0.07545968892339736
+  },
+  "edge/congress-bills": {
+   "pair_type": "edge",
+   "dataset": "congress-bills",
+   "n_pairs": 20,
+   "B_mean": 0.2943308182723141,
+   "eec_mean": 0.04052210464287494,
+   "r_mean": -0.019037256995999525,
+   "r_max": 0.12780212227279564,
+   "r_mean_n": 0.0742799072743541,
+   "r_max_n": 0.2668365021600777
+  },
+  "edge/email-Eu": {
+   "pair_type": "edge",
+   "dataset": "email-Eu",
+   "n_pairs": 3289,
+   "B_mean": 0.42859436151308966,
+   "eec_mean": 0.11275571981863254,
+   "r_mean": 0.08026200769609414,
+   "r_max": 0.08755962707906424,
+   "r_mean_n": -0.06852415006868728,
+   "r_max_n": -0.0574246350597099
+  },
+  "edge/tags-ask-ubuntu": {
+   "pair_type": "edge",
+   "dataset": "tags-ask-ubuntu",
+   "n_pairs": 419,
+   "B_mean": 0.14075390953775643,
+   "eec_mean": 0.23683782532373462,
+   "r_mean": 0.11193610483223446,
+   "r_max": 0.03694632530179906,
+   "r_mean_n": 0.09895404748007235,
+   "r_max_n": 0.033954760166778626
+  },
+  "edge/tags-math-sx": {
+   "pair_type": "edge",
+   "dataset": "tags-math-sx",
+   "n_pairs": 15825,
+   "B_mean": 0.16254480379331873,
+   "eec_mean": 0.16237662548505535,
+   "r_mean": 0.45514466154135846,
+   "r_max": 0.38446846416866204,
+   "r_mean_n": 0.17376092839793,
+   "r_max_n": 0.15646655898848444
+  },
+  "edge/tags-stack-overflow": {
+   "pair_type": "edge",
+   "dataset": "tags-stack-overflow",
+   "n_pairs": 976088,
+   "B_mean": 0.16734553827746754,
+   "eec_mean": 0.13149826185941357,
+   "r_mean": 0.3168660697534067,
+   "r_max": 0.2521291720043367,
+   "r_mean_n": 0.16025800307725463,
+   "r_max_n": 0.11224146869657142
+  },
+  "e-h3/contact-high-school": {
+   "pair_type": "e-h3",
+   "dataset": "contact-high-school",
+   "n_pairs": 470,
+   "B_mean": 0.6789798386060575,
+   "eec_mean": 0.06149881119088927,
+   "r_mean": 0.10728415928069647,
+   "r_max": -0.030396017019093526,
+   "r_mean_n": 0.10058892633098879,
+   "r_max_n": -0.029670332277607604
+  },
+  "e-h3/contact-primary-school": {
+   "pair_type": "e-h3",
+   "dataset": "contact-primary-school",
+   "n_pairs": 211,
+   "B_mean": 0.6519749851166504,
+   "eec_mean": -0.005801312377704533,
+   "r_mean": -0.09816009402726572,
+   "r_max": -0.10353613631024859,
+   "r_mean_n": -0.06026548283758091,
+   "r_max_n": 0.042596901443337054
+  },
+  "e-h3/DAWN": {
+   "pair_type": "e-h3",
+   "dataset": "DAWN",
+   "n_pairs": 74023,
+   "B_mean": 0.2667857129151078,
+   "eec_mean": 0.11761019247573083,
+   "r_mean": 0.23056829663376963,
+   "r_max": 0.15064389983674245,
+   "r_mean_n": 0.05116750052774131,
+   "r_max_n": 0.04307205559153136
+  },
+  "e-h3/NDC-substances": {
+   "pair_type": "e-h3",
+   "dataset": "NDC-substances",
+   "n_pairs": 149,
+   "B_mean": 0.49329340682182876,
+   "eec_mean": 0.44396196448859465,
+   "r_mean": 0.18890469672838991,
+   "r_max": 0.23134020594817098,
+   "r_mean_n": -0.13178073759178946,
+   "r_max_n": -0.06116492174064578
+  },
+  "e-h3/email-Eu": {
+   "pair_type": "e-h3",
+   "dataset": "email-Eu",
+   "n_pairs": 1566,
+   "B_mean": 0.4170590982645212,
+   "eec_mean": 0.06721202484976292,
+   "r_mean": 0.04774917400114208,
+   "r_max": 0.04170661436886538,
+   "r_mean_n": -0.0817412512082374,
+   "r_max_n": -0.07819762471780153
+  },
+  "e-h3/tags-ask-ubuntu": {
+   "pair_type": "e-h3",
+   "dataset": "tags-ask-ubuntu",
+   "n_pairs": 742,
+   "B_mean": 0.1412546277307115,
+   "eec_mean": 0.15541955851159267,
+   "r_mean": 0.17154567056296996,
+   "r_max": 0.12356094246698535,
+   "r_mean_n": 0.15556251140408558,
+   "r_max_n": 0.10869519848689041
+  },
+  "e-h3/tags-math-sx": {
+   "pair_type": "e-h3",
+   "dataset": "tags-math-sx",
+   "n_pairs": 41308,
+   "B_mean": 0.14787766609085795,
+   "eec_mean": 0.11987401272581223,
+   "r_mean": 0.33678948071960796,
+   "r_max": 0.30548579541894594,
+   "r_mean_n": 0.09079070369096849,
+   "r_max_n": 0.09874784073076166
+  },
+  "e-h3/tags-stack-overflow": {
+   "pair_type": "e-h3",
+   "dataset": "tags-stack-overflow",
+   "n_pairs": 6306314,
+   "B_mean": 0.12817802698019623,
+   "eec_mean": 0.09310618820266761,
+   "r_mean": 0.25562470717439545,
+   "r_max": 0.211472442453714,
+   "r_mean_n": 0.11020621790953401,
+   "r_max_n": 0.08537235670132148
+  },
+  "h3-h3/DAWN": {
+   "pair_type": "h3-h3",
+   "dataset": "DAWN",
+   "n_pairs": 70359,
+   "B_mean": 0.19260800886431778,
+   "eec_mean": 0.08344653048491578,
+   "r_mean": 0.19062084213247543,
+   "r_max": 0.14170529484869912,
+   "r_mean_n": 0.031852767133138074,
+   "r_max_n": 0.021546536579749916
+  },
+  "h3-h3/NDC-substances": {
+   "pair_type": "h3-h3",
+   "dataset": "NDC-substances",
+   "n_pairs": 203,
+   "B_mean": 0.4464608947810627,
+   "eec_mean": 0.4289785219570937,
+   "r_mean": 0.180016454571652,
+   "r_max": 0.25209893493824914,
+   "r_mean_n": -0.20452632197524603,
+   "r_max_n": -0.07959994647520643
+  },
+  "h3-h3/email-Eu": {
+   "pair_type": "h3-h3",
+   "dataset": "email-Eu",
+   "n_pairs": 295,
+   "B_mean": 0.3285428185391707,
+   "eec_mean": 0.0468096257251119,
+   "r_mean": -0.0024977664849586034,
+   "r_max": 0.039638092407672874,
+   "r_mean_n": -0.05617444927382099,
+   "r_max_n": -0.004250056712304898
+  },
+  "h3-h3/tags-ask-ubuntu": {
+   "pair_type": "h3-h3",
+   "dataset": "tags-ask-ubuntu",
+   "n_pairs": 438,
+   "B_mean": 0.13575386192847858,
+   "eec_mean": 0.12493394029736458,
+   "r_mean": -0.006405544546097187,
+   "r_max": -0.033430016155559024,
+   "r_mean_n": -0.07196647276538107,
+   "r_max_n": -0.10340146996946312
+  },
+  "h3-h3/tags-math-sx": {
+   "pair_type": "h3-h3",
+   "dataset": "tags-math-sx",
+   "n_pairs": 31218,
+   "B_mean": 0.13060210582531942,
+   "eec_mean": 0.09736462897977043,
+   "r_mean": 0.25995885362043314,
+   "r_max": 0.24321543735857584,
+   "r_mean_n": 0.040824277592098134,
+   "r_max_n": 0.056768481124283864
+  },
+  "h3-h3/tags-stack-overflow": {
+   "pair_type": "h3-h3",
+   "dataset": "tags-stack-overflow",
+   "n_pairs": 10424273,
+   "B_mean": 0.10858429254600792,
+   "eec_mean": 0.07406248575824453,
+   "r_mean": 0.21003303871586318,
+   "r_max": 0.17964249963292558,
+   "r_mean_n": 0.06577553690343374,
+   "r_max_n": 0.05079892313188561
+  }
+ },
+ "quoted": {
+  "n_cases": 25,
+  "n_abs_r_mean_le_0.30": 22,
+  "r_mean_above_0.30": {
+   "edge/tags-math-sx": 0.45514466154135846,
+   "edge/tags-stack-overflow": 0.3168660697534067,
+   "e-h3/tags-math-sx": 0.33678948071960796
+  },
+  "r_mean_n_range": [
+   -0.20452632197524603,
+   0.17376092839793
+  ],
+  "r_max_n_range": [
+   -0.13254324390815247,
+   0.2668365021600777
+  ],
+  "across_datasets": {
+   "edge": {
+    "r": -0.25024856131807943,
+    "r_without": {
+     "ia-reality-call": -0.3525918804786835,
+     "college-msg": -0.369194379561986,
+     "friends-family-call": -0.25725038022172286,
+     "contact-high-school": -0.18535375612612073,
+     "contact-primary-school": -0.2288824270215649,
+     "DAWN": -0.23621932945463023,
+     "congress-bills": -0.36785471908100564,
+     "email-Eu": -0.2443455873051298,
+     "tags-ask-ubuntu": -0.019150776575144707,
+     "tags-math-sx": -0.19866485002932724,
+     "tags-stack-overflow": -0.2591852479085364
+    }
+   },
+   "e-h3": {
+    "r": -0.07895351349590307,
+    "r_without": {
+     "contact-high-school": 0.046202114919542625,
+     "contact-primary-school": 0.1651576617511075,
+     "DAWN": -0.08773318402861906,
+     "NDC-substances": -0.8327568275918683,
+     "email-Eu": -0.06283493735412674,
+     "tags-ask-ubuntu": -0.05531610980603161,
+     "tags-math-sx": -0.10036435297469573,
+     "tags-stack-overflow": -0.141482846394219
+    }
+   },
+   "h3-h3": {
+    "r": 0.7187130118599123,
+    "r_without": {
+     "DAWN": 0.7151580352309067,
+     "NDC-substances": -0.709367452927626,
+     "email-Eu": 0.9659231357643229,
+     "tags-ask-ubuntu": 0.7393071690795208,
+     "tags-math-sx": 0.7165491092825128,
+     "tags-stack-overflow": 0.7025551072027459
+    }
+   }
+  }
+ }
+}
